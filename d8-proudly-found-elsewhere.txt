@@ -1,0 +1,13 @@
+<h1>Proudly found elsewhere</h1>
+
+<h2>A more familiar approach</h2>
+<p>To create modern experiences, you need tools that build on advances in others. Drupal 8 adopts more modern PHP standards and relies less on procedural coding. You'll recognize much more of its parts and methods. You’ll save time working with more code proven to solve common problems. Drupal uses code that wasn't invented here, so you can build amazing things that work anywhere.</p>
+
+<h2>To fast and flexible theming</h2>
+<p>Drupal 8’s Twig integration lets you create fast, secure, and flexible designs. Twig uses tag-based syntax that’s easier to learn. You can template your own language constructs, thanks to its open architecture. Debug much more easily, with clearer error messages. It’s the most complete transformation of Drupal theming in 10 years.</p>
+
+<h2>To reusing components</h2>
+<p>Drupal 8 ships with 10 built-in Symfony components, like ClassLoader for autoloading and caching project classes for performance. There’s HttpFoundation and HttpKernel for managing incoming HTTP request and responses. You can trust DependencyInjection to flexibly centralize the way objects are constructed. We reworked the backend of page controller resolution, thanks to Routing.</p>
+
+<h2>And to dependency management</h2>
+<p>Keeping third-party libraries and their dependencies up to date should be painless. To ease that pain, Drupal 8 supports Composer. Composer makes dependency management simpler. You declare the libraries your project needs, and it installs and updates them (and their dependencies) for you. That means speed, that means efficiency, and that means you can more dependably use other people’s libraries to improve your work.</p>
