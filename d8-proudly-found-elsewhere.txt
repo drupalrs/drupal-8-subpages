@@ -6,8 +6,8 @@
 <h2>To fast and flexible theming</h2>
 <p>Drupal 8’s Twig integration lets you create fast, secure, and flexible designs. Twig uses tag-based syntax that’s easier to learn. You can template your own language constructs, thanks to its open architecture. Debug much more easily, with clearer error messages. It’s the most complete transformation of Drupal theming in 10 years.</p>
 
-<h2>To reusing components</h2>
-<p>Drupal 8 ships with 10 built-in Symfony components, like ClassLoader for autoloading and caching project classes for performance. There’s HttpFoundation and HttpKernel for managing incoming HTTP request and responses. You can trust DependencyInjection to flexibly centralize the way objects are constructed. We reworked the backend of page controller resolution, thanks to Routing.</p>
+<h2>Za ponovno korišćenje komponenti</h2>
+<p>Drupal 8 se isporučuje sa 10 ugrađenih komponenti Symfony-a, kao ClassLoader za automatsko učitavanje i keširanje klasa projekta radi boljih performansi. Takođe, tu je HttpFoundation i HttpKernel za upravljanje dolaznih HTTP zahteva i odgovora. Možete verovati  DependencyInjection-u, da fleksibilno centralizuje način na koji su objekti konstruisani. Preradili smo backend od rezolucije kontrolera stranice, zahvaljujući Routing-u.</p>
 
 <h2>And to dependency management</h2>
 <p>Keeping third-party libraries and their dependencies up to date should be painless. To ease that pain, Drupal 8 supports Composer. Composer makes dependency management simpler. You declare the libraries your project needs, and it installs and updates them (and their dependencies) for you. That means speed, that means efficiency, and that means you can more dependably use other people’s libraries to improve your work.</p>
