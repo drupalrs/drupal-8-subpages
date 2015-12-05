@@ -8,7 +8,7 @@
 
 
 <h2>Za upotrebu na više mesta</h2>
-<p>Svaka pojedinačna instanca sadržaja se može prevesti. Odmah nakon instalacije. Kontrolišite uobičajne jezike za svaki tip entiteta i podtip. Možete čak i da asocirate do 3 različita jezika , 1 za podatke profila , 1 koji preferira korisnik, i 1 za administraciju. Plus, sad postoji jos moćniji back-end sistem za transkripciju. 
+<p>Svaka pojedinačna instanca sadržaja se može prevesti. Odmah nakon instalacije. Kontrolišite uobičajne jezike za svaki tip entiteta i podtip. Možete povezati i do 3 različita jezika sa korisnikom , 1 za podatke profila , 1 koji preferira korisnik, i 1 za administraciju. Plus, sad postoji jos moćniji back-end sistem za transkripciju. 
 
 
 <h2>In more advanced ways</h2>
