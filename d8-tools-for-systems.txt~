@@ -3,8 +3,8 @@
 <h2>Native support for integrations</h2>
 <p>Build interactions using 4 web services modules in core: RESTful web services, Serialization, Hypertext Application Language (HAL), and HTTP Basic Authentication. Make Drupal the backbone for the unique series of external applications your project needs. Patch records in a CRM or marketing automation tool. Post to social platforms and send email campaigns from a Drupal site. Get granular control over which resources are available and how they’re accessed.</p>
 
-<h2>Api-first objavljivanje</h2>
-<p>Otključajte mogućnosti strukture vašeg sadržaja. Može mu se pristupiti preko API-ja. Možete ga prikazati kao JSON ili XML podjednako lako kao HTML i prikazati Views liste kao usluge takođe. Šaljite sadržaj gde god želite da bude, i predstavite ga sa front-end lejerom kao React ili AngularJS. Ova fleksibilnost znači revolucionarno iskustvo i nove arhitektonske paradigme kao što su napredak i potpuno razdvajanje - ovo su sada realne opcije.</p>
+<h2>API-first publishing</h2>
+<p>Unlock the potential of your structured content. It can now be accessed via APIs. You can output it as JSON or XML almost as easily as HTML, and expose Views lists as services too. Send content wherever you need it to be, and present it with a front-end layer like React or AngularJS. This flexibility means groundbreaking experiences, and new architectural paradigms—like progressive and full decoupling—are real options, right now.</p>
 
 <h2>Better performance and scalability</h2>
 <p>Caching settings throughout Drupal 8 are better than before and better by default. Entity caching is in core. Cache tags let you invalidate content accurately and immediately. You don’t have to turn CSS/JS aggregation on, because we already did. There are mobile-friendly alternatives to JavaScript-intensive features, and support for the new data-saving &lt;picture&gt; element. All these features (and more), in any language, mean speed.</p>
