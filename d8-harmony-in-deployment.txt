@@ -1,7 +1,7 @@
 <h1>Harmoničnost u razvoju</h1>
 
 <h2>Univerzalni magacin za konfiguraciju</h2>
-<p>Konfiguracioni sistem Drupala 8 upravlja svim vrstama podešavanja, što vam pruža mogućnost kako i gde da skladištite podatke. U osnovi, oba globalna i zasebna podešavanja su skladištena, u standardnom formatu bazi podataka. Ali je moguće izmeniti. Izabrati Drupal korisnički interfejs, Drush ili sistemsko okruženje za rad sa fajlovima. Takođe je moguće i izvesti (export) podešavanja u YAML fajlove za kontrolisanje u (version control). I ako vam je potrebno, možete presnimiti podešavanja u vasem settings.php fajlu.</p>
+<p>Konfiguracioni sistem Drupala 8 upravlja svim vrstama podešavanja, što vam pruža mogućnost kako i gde da skladištite podatke. U osnovi, oba globalna i zasebna podešavanja su skladištena, u standardnom formatu bazi podataka. Ali je moguće izmeniti. Izaberite Drupal korisnički interfejs, Drush ili sistemsko okruženje za rad sa fajlovima. Takođe je moguće i izvesti (export) podešavanja u YAML fajlove za kontrolisanje u (version control). I ako vam je potrebno, možete presnimiti podešavanja u vasem settings.php fajlu.</p>
 
 <h2>For better deployments</h2>
 <p>You’ve learned—theoretically, or the hard way—to be very careful about making configuration changes on live sites. But exporting and importing settings between environments hasn’t exactly been simple. Now, you can move production-ready data out of development or staging more fluidly. Drupal includes support for generating and validating universally unique identifiers (UUID) to sync configuration between instances of the same site. If two environments have the same UUID, Drupal 8 makes it easier to deploy single or full-export configuration changes from one to the other (and back again).</p>
