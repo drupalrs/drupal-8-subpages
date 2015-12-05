@@ -1,11 +1,11 @@
-<h1>Usability</h1>
+<h1>Pristupačnost</h1>
 
-<h2>Better authoring experience</h2>
-<p>Creating content doesn’t have to be a chore. Work quickly and easily from wherever you’d like. All of Drupal 8’s built-in themes are responsive, so you can use all of the admin areas from your phone. The authoring interface is split into two regions—one for the heart of your content, and one for its settings. Focus on all of the details at once, or only the ones you need. And with the help of a CKEditor feature built specifically for Drupal, you can more easily control details like image alignment and captions right from the palm of your hand.</p>
+<h2>Bolje iskustvo sa Authoring</h2>
+<p>Kreiranje sadržaja ne mora da bude težak posao. Radite brzo i lako odakle god želite. Sve teme u Drupalu 8 su responsive i možete koristiti sve administratorske alata sa vašeg telefona. Interfejs za authoring je podeljen u dva regiona. Jedan za srž vašeg sadržaja i drugi za podešavanja. Fokusirajte se na sve detalje od jednom ili samo na one koji vam trebaju. Uz pomoć CKEditor osobine razvijene specifično za Drupal, Možete lakše kontrolisati detalje kao što su poravnanje slika i naslova sa vašeg mobilnog uređaja.</p>
 
-<h2>With powerful customizations</h2>
-<p>Manage authoring with WYSIWYG features designed to keep content creation neat and ordered. By default, the editor enforces clean markup and has formatting tools disabled. When you need to change settings, use a drag-and-drop configuration UI for adding and removing editor buttons.</p>
-<p>Turn guidelines into structures with new fields for content modeling. Email, link, phone, entity reference, and date fields: they’re all included by default now. Reuse blocks in multiple regions, and create custom block types with their own unique settings. You can also configure blocks for important components that used to be hard-coded, like breadcrumbs and site names.</p>
+<h2>Sa moćnim prilagođavanjima</h2>
+<p>Koristite authoring with WYSIWYG osobinama napravljenim da učine stvaranje i upravljanje sadržajem urednim. Editor održava markup čistim i ima ugašene alate za formatiranje. Kada trebate da promenite podešavanja, koristite drag-and-drop metodu za dodavanje ili uklanjanje dugmadi za editor.</p>
+<p>Pretvorite smernice u strukture sa novim poljima za modelovanje sadržaja. Email, link, phone, entity reference, i date fields su sada automatski uključeni. Iskoristite blokove u više regiona i napravite unikatne tipove blokova za važne komponente koje su inače bile "hard coded", kao što su breadcrumbs i site names</p>
 
 <h2>Because there’s more in core</h2>
 <p>Create listings of related content—like users, events, and news articles—without a contributed module; Views is now in core. You can even customize admin listings, because they’re built with Views too. But Views isn’t the only thing that’s new. Set different responsive styles for individual images. Also, custom blocks are fieldable, translatable, and revisionable. Maintain a default revision, and keep it published, while other drafts are created and deleted.</p>
