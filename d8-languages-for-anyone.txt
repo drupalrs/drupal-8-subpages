@@ -4,7 +4,7 @@
 <p>Creating great digital experiences isn’t easy. It’s even harder if you have to use tools wrapped in an unfamiliar language. That’s why Drupal gives you 100 languages to choose from, and provides 4 core modules specifically for language and translation support. Build what you want, with the languages you know best.</p>
 
 <h2>Dostupno na prvom koraku</h2>
-<p>Izaberite jezik koji vama odgovara, sa potpuno novim, jednostavnijim interfejsom. Odmah nakon sto instalirate Drupal 8, on pretpostavlja na osnovu pretraživaca kako bi predložio jezik za vas. I sa automatskim preuzimanjem i instalacijom prevoda, lakse ćete napraviti tu odluku. Počnite sa vašom lokalizacijom, jos brže.</p>
+<p>Izaberite jezik koji vama odgovara, sa potpuno novim, jednostavnijim interfejsom. Odmah nakon što instalirate Drupal 8, on koristi preferiranu detekciju pretraživaca kako bi vam predložio jezik. I sa automatskim preuzimanjem i instalacijom prevoda, lakše ćete napraviti tu odluku. Počnite sa vašom lokalizacijom, jos brže.</p>
 
 
 <h2>Za upotrebu na više mesta</h2>
