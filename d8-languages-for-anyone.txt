@@ -3,11 +3,13 @@
 <h2>One hundred languages</h2>
 <p>Creating great digital experiences isn’t easy. It’s even harder if you have to use tools wrapped in an unfamiliar language. That’s why Drupal gives you 100 languages to choose from, and provides 4 core modules specifically for language and translation support. Build what you want, with the languages you know best.</p>
 
-<h2>Available at step 1</h2>
-<p>Choose the language that works for you, with an all-new, simpler interface. As soon as you install Drupal 8, it uses browser preference-based detection to suggest a language for you. And with automated download and installation of translation files, it’s an easy choice to make. Get started on your own localization, faster.</p>
+<h2>Dostupno na prvom koraku</h2>
+<p>Izaberite jezik koji vama odgovara, sa potpuno novim, jednostavnijim interfejsom. Odmah nakon što instalirate Drupal 8, on koristi preferiranu detekciju pretraživaca kako bi vam predložio jezik. I sa automatskim preuzimanjem i instalacijom prevoda, lakše ćete napraviti tu odluku. Počnite sa vašom lokalizacijom, jos brže.</p>
 
-<h2>For use in more places</h2>
-<p>Every single content entity is translatable. Right out of the box. Control language defaults for each entity type and subtype. You can even associate up to 3 different languages with a user—1 for the profile data, 1 that’s preferred by the user, and 1 for administration. Plus, there’s now a powerful back-end system for transliteration.</p>
+
+<h2>Za upotrebu na više mesta</h2>
+<p>Svaka pojedinačna instanca sadržaja se može prevesti. Odmah nakon instalacije. Kontrolišite uobičajne jezike za svaki tip entiteta i podtip. Možete povezati i do 3 različita jezika sa korisnikom , 1 za podatke profila , 1 koji preferira korisnik, i 1 za administraciju. Plus, sad postoji jos moćniji back-end sistem za transkripciju. 
+
 
 <h2>In more advanced ways</h2>
 <p>Set a fallback language without changing a site’s default language. String customizations are tracked, so your translations won’t disappear with the built-in automatic updates. For low resource environments, gettext files are now imported in chunks. And with so much now in blocks, you can set block visibility per language too.</p>
