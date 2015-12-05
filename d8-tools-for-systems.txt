@@ -6,7 +6,7 @@
 <h2>API-first publishing</h2>
 <p>Unlock the potential of your structured content. It can now be accessed via APIs. You can output it as JSON or XML almost as easily as HTML, and expose Views lists as services too. Send content wherever you need it to be, and present it with a front-end layer like React or AngularJS. This flexibility means groundbreaking experiences, and new architectural paradigms—like progressive and full decoupling—are real options, right now.</p>
 
-<h2>Bolji preformanse i skalabilnost</h2>
+<h2>Bolje preformanse i skalabilnost</h2>
 <p>Keširanje podešavanja kroz ceo Dupal 8 su bolja nego ranije, i bolja u osnovi. Keširanje entiteta je u jezgru Drupala. Keširani tagovi vam dozvoljavaju da poništite sadržaj tačno i smesta. Ne morate da uključujete CSS/JS agregaciju, jer smo mi to već uradili. Postoje aternative za JavaScript intenzivne karakteristike koje su naklonjenije mobilnim telefonima, i podrška za novi olakšavajući &lt;picture&gt; element. Sve navedene karakteristike (i još više), u bilo kom programskom jeziku, znače brzinu.</p>
 
 <h2>With enhanced testing</h2>
