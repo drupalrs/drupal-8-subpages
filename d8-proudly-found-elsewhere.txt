@@ -6,9 +6,8 @@
 <h2>Ka brzom i fleksibilnom pravljenju tema</h2>
 <p>Drupal 8 koristi Twig integraciju kako bi vam omogućio da pravite brze sigurne i fleksibilne dizajne. Twig koristi sintakse bazirane na tagovima koje su lakše za naučiti. Zahvaljujući njegovoj otvorenoj arhitekturi, možete napraviti šablon svojih jezičkih kostrukata. Otklanjajte greške jednostavnije, sa jasnijim prijavljivanjem grešaka. To je najkompletnija transformacija procesa pravljenja tema u Drupalu u poslednjih 10 godina.</p>
 
-
 <h2>Za ponovno korišćenje komponenti</h2>
 <p>Drupal 8 se isporučuje sa 10 ugrađenih komponenti Symfony-a, kao ClassLoader za automatsko učitavanje i keširanje klasa projekta radi boljih performansi. Takođe, tu je HttpFoundation i HttpKernel za upravljanje dolaznih HTTP zahteva i odgovora. Možete verovati  DependencyInjection-u, da fleksibilno centralizuje način na koji su objekti konstruisani. Preradili smo backend od rezolucije kontrolera stranice, zahvaljujući Routing-u.</p>
 
-<h2>And to dependency management</h2>
-<p>Keeping third-party libraries and their dependencies up to date should be painless. To ease that pain, Drupal 8 supports Composer. Composer makes dependency management simpler. You declare the libraries your project needs, and it installs and updates them (and their dependencies) for you. That means speed, that means efficiency, and that means you can more dependably use other people’s libraries to improve your work.</p>
+<h2>I zavisno upravljanje</h2>
+<p>Održavanje posredničkih biblioteka i njihove zavisnosti ažuriranim bi trebalo da bude jednostavno i bezbolno. Da bi to olakšali našim korisnicima, Drupal 8 sada podržava Composer. Composer čini zavisno upravljanje jednostavnijim. Vi samo treba da odaberete koje biblioteke su potrebne Vašem projektu, a Composer će ih sam instalirati i ažurirati (kao i njihove zavisnosti) za Vas. Samim tim osiguravamo brzinu, efikasnost i pouzdano korišćenje biblioteka drugih korisnika kako bi unapredili Vaš rad.</p>
