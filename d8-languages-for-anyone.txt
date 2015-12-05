@@ -1,7 +1,7 @@
 <h1>Jezici za svakoga</h1>
 
 <h2>Stotinu jezika</h2>
-<p>Stvaranje velikih digitalnih iskustava nije lako. Još je teže ako morate da koristite alate u nepoznatom jeziku. Zato Vam Drupal daje 100 jezika za odabir, i obezbeđuje 4 ugrađena modula specijalno za jezik i podršku u prevođenju. Napravite ono što želite, radeći na jezicima koje znate najbolje.</p>
+<p>Stvaranje velikih digitalnih iskustava nije lako. Još je teže ako morate da koristite alate u nepoznatom jeziku. Zato Vam Drupal daje 100 jezika za odabir, i obezbeđuje 4 ugrađena modula specijalno za jezik i podršku u prevođenju. Napravite ono što želite, koristeći jezik koji najbolje poznajete.</p>
 
 <h2>Available at step 1</h2>
 <p>Choose the language that works for you, with an all-new, simpler interface. As soon as you install Drupal 8, it uses browser preference-based detection to suggest a language for you. And with automated download and installation of translation files, it’s an easy choice to make. Get started on your own localization, faster.</p>
