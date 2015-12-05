@@ -1,7 +1,7 @@
-<h1>Languages for anyone</h1>
+<h1>Jezici za svakoga</h1>
 
-<h2>One hundred languages</h2>
-<p>Creating great digital experiences isn’t easy. It’s even harder if you have to use tools wrapped in an unfamiliar language. That’s why Drupal gives you 100 languages to choose from, and provides 4 core modules specifically for language and translation support. Build what you want, with the languages you know best.</p>
+<h2>Stotinu jezika</h2>
+<p>Stvaranje velikih digitalnih iskustava nije lako. Još je teže ako morate da koristite alate u nepoznatom jeziku. Zato Vam Drupal daje 100 jezika da birate, i obezbeđuje 4 ugrađena modula specijalno za jezik i podršku u prevođenju. Napravite ono što želite, radeći na jezicima koje znate najbolje.</p>
 
 <h2>Available at step 1</h2>
 <p>Choose the language that works for you, with an all-new, simpler interface. As soon as you install Drupal 8, it uses browser preference-based detection to suggest a language for you. And with automated download and installation of translation files, it’s an easy choice to make. Get started on your own localization, faster.</p>
@@ -9,5 +9,5 @@
 <h2>For use in more places</h2>
 <p>Every single content entity is translatable. Right out of the box. Control language defaults for each entity type and subtype. You can even associate up to 3 different languages with a user—1 for the profile data, 1 that’s preferred by the user, and 1 for administration. Plus, there’s now a powerful back-end system for transliteration.</p>
 
-<h2>In more advanced ways</h2>
-<p>Set a fallback language without changing a site’s default language. String customizations are tracked, so your translations won’t disappear with the built-in automatic updates. For low resource environments, gettext files are now imported in chunks. And with so much now in blocks, you can set block visibility per language too.</p>
+<h2>Sa još naprednijim mogućnostima</h2>
+Podesite rezervni (fallback) jezik bez menjanja osnovnog jezika websajt-a. Izmene reči su praćane u sistemu tako da vaši prevodi neće biti izgubljeni kao posledica ugrađenog automatskog ažuriranja. Za okruženja sa ograničenim resursima, gettext fajlovi će biti importovani iz delova. A pored toliko novih stvari u blokovima, mozete podešavati i vidljivost bloka u zavisnosti od jezika.
