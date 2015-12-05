@@ -10,5 +10,5 @@
 <h2>Because there’s more in core</h2>
 <p>Create listings of related content—like users, events, and news articles—without a contributed module; Views is now in core. You can even customize admin listings, because they’re built with Views too. But Views isn’t the only thing that’s new. Set different responsive styles for individual images. Also, custom blocks are fieldable, translatable, and revisionable. Maintain a default revision, and keep it published, while other drafts are created and deleted.</p>
 
-<h2>And a commitment to accessibility</h2>
-<p>Mark content regions with attributes that make them familiar, thanks to WAI-ARIA techniques and HTML5 semantic markup. Improve navigation by identifying menus, banners, and ancillary content areas, and letting keyboard users move through them more easily. You can even take advantage of these practices for administering your own sites. Drupal 8 puts these methods to work in a new admin toolbar that adapts to different screen widths, and is easier for people with screen readers to use.</p>
+<h2>I obavezanost ka pristupačnosti</h2>
+<p>Označite regione sadržaja sa atributima koji ih čine prepoznatljivijim, zahvaljujući WAI-ARIA tehnikama i HTML5 semantičkim markup-om. Poboljšajte navigaciju identifikacijom menija, banera i pomoćnih polja sadržaja. Čak možete iskoristiti ove prakse za administraciju vaših sajtova. Drupal 8 upošljava ove metode u novom administratorskom polju sa alatima koje se prilagođava širini ekrana, i olakašano je korišćenje korisnicima koji koriste softver za čitanje sa ekrana.</p>
