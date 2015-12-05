@@ -1,10 +1,10 @@
 <h1>Sa ponosom nađeno drugde</h1>
 
 <h2>Prepoznatljiviji pristup</h2>
-<p>Kako bi stvarali moderna iskustva, potrebni su vam alati koji nadograđuju napretke drugih. Drupal 8 usvaja više modernih PHP standarda i oslanja se manje na proceduralno kodiranje. Prepoznaćete mnogo više njegovih delova i metoda. Uštedećete vreme radeći sa više koda koji dokazano rešava uobičajene probleme.Drupal koristi kod koji nije napravljen ovde, tako da možete praviti stvari koje rade bilo gde.</p>
+<p>Kako bi stvarali moderna iskustva, potrebni su vam alati koji nadograđuju napretke drugih. Drupal 8 usvaja više modernih PHP standarda i oslanja se manje na proceduralno kodiranje. Prepoznaćete mnogo više njegovih delova i metoda. Uštedećete vreme radeći sa više koda koji dokazano rešava uobičajene probleme. Drupal koristi kod koji nije napravljen ovde, tako da možete praviti zapanjujuće stvari koje rade bilo gde.</p>
 
 <h2>Ka brzom i fleksibilnom pravljenju tema</h2>
-<p>Drupal 8 koristi Twig integraciju kako bi vam omogućio da pravite brze sigurne i fleksibilne dizajne. Twig koristi sintakse bazirane na tagovima koje su lakše naučiti. Zahvaljujuci njegovoj otvorenoj arhitekturi, možete napraviti šablon svojih jezičkih kostrukata. Otklanjajte greške jednostavnije, sa jasnijim prijavljivanjem grešaka. To je najkompletnija transformacija procesa pravljenja tema u Drupalu u poslednjih 10 godina.</p>
+<p>Drupal 8 koristi Twig integraciju kako bi vam omogućio da pravite brze sigurne i fleksibilne dizajne. Twig koristi sintakse bazirane na tagovima koje su lakše za naučiti. Zahvaljujući njegovoj otvorenoj arhitekturi, možete napraviti šablon svojih jezičkih kostrukata. Otklanjajte greške jednostavnije, sa jasnijim prijavljivanjem grešaka. To je najkompletnija transformacija procesa pravljenja tema u Drupalu u poslednjih 10 godina.</p>
 
 
 <h2>To reusing components</h2>
