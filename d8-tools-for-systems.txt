@@ -1,7 +1,7 @@
 <h1>Alati za sisteme</h1>
 
 <h2>Ugrađena podrška za integracije</h2>
-<p>Izgradite interakcije koristeći 4 web servis modula u jezgru Drupala: RESTful web servisi, Serijalizacija, Hypertext Application Language (HAL) i HTTP Basic Authentication. Pretvorite Drupal u osnovu za jedinstvenu seriju eksternih aplikacija koje su neophodne Vašem projektu. Popravite zapise u CRM ili alatu za marketing automatizaciju. Šaljite poruke na društvene platforme ili vodite email kampanje sa Drupal sajta. Detaljno kotrolišite raspoložive resurse i način na koji im se pristupa.</p>
+<p>Izgradite interakcije koristeći 4 web servis modula u jezgru Drupala: RESTful web servisi, Serijalizacija, Hypertext Application Language (HAL) i HTTP Basic Authentication. Učinite Drupal osnovom jedinstvene serije eksternih aplikacija koje su neophodne Vašem projektu. Popravite zapise u CRM ili alatu za marketing automatizaciju. Postavljajte poruke na društvene platforme ili vodite email kampanje sa Drupal sajta. Detaljno kotrolišite raspoložive resurse i način na koji im se pristupa.</p>
 
 <h2>API-first publishing</h2>
 <p>Unlock the potential of your structured content. It can now be accessed via APIs. You can output it as JSON or XML almost as easily as HTML, and expose Views lists as services too. Send content wherever you need it to be, and present it with a front-end layer like React or AngularJS. This flexibility means groundbreaking experiences, and new architectural paradigms—like progressive and full decoupling—are real options, right now.</p>
