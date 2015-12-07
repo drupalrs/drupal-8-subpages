@@ -3,7 +3,7 @@
 <h2>Univerzalni magacin za konfiguraciju</h2>
 <p>Konfiguracioni sistem Drupala 8 upravlja svim vrstama podešavanja, što vam pruža mogućnost kako i gde da skladištite podatke. U osnovi, globalna i zasebna podešavanja su skladištena, u standardnom formatu bazi podataka. Ali je moguće izmeniti. Izaberite Drupal korisnički interfejs, Drush ili sistemsko okruženje za rad sa fajlovima. Takođe je moguće i izvesti podešavanja u YAML fajlove za kontrolisanje u (version control). I ako vam je potrebno, možete presnimiti podešavanja u vasem settings.php dokumentu.</p>
 
-<h2>Za bolji razvoj/h2>
+<h2>Za bolji razvoj</h2>
 <p>Naučili ste, teorijski ili na teži način, da budete veoma oprezni oko promena u konfiguracijama na objavljenim sajtovima. Međutim, izvoz i uvoz podešavanja između različitih razvojnih okruženja nije baš bio jednostavan. Sada mnogo jednostavnije možete da izvršite prenos spremnih podataka iz razvojnih okruženja. Drupal uključuje podršku za generisanje i potvrđivanje univerzalno jedinstvenih identifikatora (UUID) za sinhronizaciju konfiguracija između instanci istog sajta. Ako dva okruženja imaju isti UUID, Drupal 8 olakšava raspodelu pojedinačnih ili kompletnih konfiguracijskih izmena između instanci.</p>
 
 <h2>Za bolje održavanje</h2>

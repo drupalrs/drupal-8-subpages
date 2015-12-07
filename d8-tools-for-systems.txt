@@ -7,7 +7,7 @@
 <p>Otključajte mogućnosti strukture Vašeg sadržaja. Može mu se pristupiti preko API-ja. Možete ga prikazati kao JSON ili XML podjednako lako kao HTML i prikazati Views liste kao usluge takođe. Šaljite sadržaj gde god želite da bude, i predstavite ga sa front-end lejerom kao React ili AngularJS. Ova fleksibilnost znači revolucionarno iskustvo i nove arhitektonske paradigme kao što su progresivno i potpuno razdvajanje - ovo su sada realne opcije.</p>
 
 <h2>Bolje preformanse i skalabilnost</h2>
-<p>Keširanje podešavanja kroz ceo Dupal 8 su bolja nego ranije, i bolja u osnovi. Keširanje entiteta je u jezgru Drupala. Keširani tagovi vam dozvoljavaju da poništite sadržaj tačno i smesta. Ne morate da uključujete CSS/JS agregaciju, jer smo mi to već uradili. Postoje alternative za responzivno prikazivanje koje ne zavise od od JavaScript, i podrška za novi olakšavajući &lt;picture&gt; element. Sve navedene karakteristike (i još više), u bilo kom programskom jeziku, znače brzinu.</p>
+<p>Keširanje podešavanja kroz ceo Dupal 8 su bolja nego ranije, i bolja u osnovi. Keširanje entiteta je u jezgru Drupala. Keširani tagovi vam dozvoljavaju da poništite sadržaj tačno i smesta. Ne morate da uključujete CSS/JS agregaciju, jer smo mi to već uradili. Postoje alternative za responzivno prikazivanje koje ne zavise od od JavaScript-a, i podrška za novi olakšavajući &lt;picture&gt; element. Sve navedene karakteristike (i još više), u bilo kom programskom jeziku, znače brzinu.</p>
 
-<h2>sa unapredjenim testiranjem</h2>
+<h2>Sa unapređenim testiranjem</h2>
 <p>Sa svim novim moćima dolaze ogromne. Izvodite brže, fokusiranije testiranje jedinica direktno iz Vašeg IDE-a, sa Drupalovom PHPUnit integracijom. Isprobajte BrowserTestBase, funkcionalno testiranje bazirano na PHP standardima, kao alternativu Simpletestovom kodu. Pored svega toga, Drupala sada ima KernelTestBase za brže API testiranje integriteta raznih integrisanih komponenti.</p>
