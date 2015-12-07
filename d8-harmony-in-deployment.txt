@@ -1,10 +1,10 @@
-<h1>Harmony in deployment</h1>
+<h1>Harmoničnost u razvoju</h1>
 
-<h2>Universal configuration storage</h2>
-<p>Drupal 8’s configuration system handles all kinds of config settings, and you have options for how and where you store your data. By default, both global and itemized settings are stored, in a standard format, in the database. But you can change that. Choose Drupal UI, Drush, or file-based workflows. You can also export your config data into YAML files to manage it with version control. And, if you need to, you can override config data in your settings.php file.</p>
+<h2>Univerzalni magacin za konfiguraciju</h2>
+<p>Konfiguracioni sistem Drupala 8 upravlja svim vrstama podešavanja, što vam pruža mogućnost kako i gde da skladištite podatke. U osnovi, oba globalna i zasebna podešavanja su skladištena, u standardnom formatu bazi podataka. Ali je moguće izmeniti. Izaberite Drupal korisnički interfejs, Drush ili sistemsko okruženje za rad sa fajlovima. Takođe je moguće i izvesti (export) podešavanja u YAML fajlove za kontrolisanje u (version control). I ako vam je potrebno, možete presnimiti podešavanja u vasem settings.php fajlu.</p>
 
-<h2>For better deployments</h2>
-<p>You’ve learned—theoretically, or the hard way—to be very careful about making configuration changes on live sites. But exporting and importing settings between environments hasn’t exactly been simple. Now, you can move production-ready data out of development or staging more fluidly. Drupal includes support for generating and validating universally unique identifiers (UUID) to sync configuration between instances of the same site. If two environments have the same UUID, Drupal 8 makes it easier to deploy single or full-export configuration changes from one to the other (and back again).</p>
+<h2>Za bolji ciklus razvoja softvera</h2>
+<p>Naučili ste, teorijski ili na teži način, da budete veoma oprezni oko promena u konfiguracijama na serverima. Međutim, izvoz i uvoz podešavanja između različitih razvojnih okruženja nije baš bio jednostavan. Sada mnogo jednostavnije možete da izvršite prenos podataka na razvojna okruženja (Development ili Staging). Drupal uključuje podršku za generisanje i potvrđivanje univerzalno jedinstvenih identifikatora (UUID) za sinhronizaciju konfiguracija između instanci istog sajta. Ako dva okruženja imaju isti UUID, Drupal 8 olakšava raspodelu pojedinačnih ili kompletnih konfiguracijskih izmena između instanci.</p>
 
-<h2>And for better maintenance</h2>
-<p>The new configuration tools aren’t just for launches and roll-outs. A lot of work happens before and after pushing changes live. That’s why Drupal supports configuration schema, dependencies, and validation in all your environments: so you can maintain data-integrity between deployments and updates. Trust that most dependencies are dynamically calculated and declared automatically. Use schema to automate config entity persistence and the generation of the config translation UI.</p>
+<h2>Za bolje održavanje</h2>
+<p> Novi alati za konfigurisanje nisu samo za lansiranje i vraćanje na prethodna podešavanja (roll-outs). Mnogo posla se dešava pre i posle prenosa podataka na server. Zato Drupal podržava konfiguracijske šeme, zavisnosti i validaciju u svim Vašim razvojnim okruženjima: na ovaj način možete održavati integritet podataka između raspoređivanja i ažuriranja. Većina zavisnosti se dinamički izračunava i automatski izvršava. Koristite šemu da biste automatizovali konfiguraciju entiteta i kreiranje konfiguracije prevođenja korisničkog okruženja (UI).</p>
