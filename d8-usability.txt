@@ -1,14 +1,14 @@
-<h1>Usability</h1>
+<h1>Upotrebljivost</h1>
 
-<h2>Better authoring experience</h2>
-<p>Creating content doesn’t have to be a chore. Work quickly and easily from wherever you’d like. All of Drupal 8’s built-in themes are responsive, so you can use all of the admin areas from your phone. The authoring interface is split into two regions—one for the heart of your content, and one for its settings. Focus on all of the details at once, or only the ones you need. And with the help of a CKEditor feature built specifically for Drupal, you can more easily control details like image alignment and captions right from the palm of your hand.</p>
+<h2>Bolje iskustvo sa Authoring</h2>
+<p>Kreiranje sadržaja ne mora da bude težak posao. Radite brzo i lako odakle god želite. Sve teme u Drupalu 8 su responsive i možete koristiti sve administratorske alate sa vašeg telefona. Interfejs za authoring je podeljen u dva regiona. Jedan za srž vašeg sadržaja i drugi za podešavanja. Fokusirajte se na sve detalje odjednom ili samo na one koji vam trebaju. Uz pomoć CKEditor osobine razvijene specifično za Drupal, možete lakše kontrolisati detalje kao što su poravnanje slika i naslova sa vašeg mobilnog uređaja.</p>
 
-<h2>With powerful customizations</h2>
-<p>Manage authoring with WYSIWYG features designed to keep content creation neat and ordered. By default, the editor enforces clean markup and has formatting tools disabled. When you need to change settings, use a drag-and-drop configuration UI for adding and removing editor buttons.</p>
-<p>Turn guidelines into structures with new fields for content modeling. Email, link, phone, entity reference, and date fields: they’re all included by default now. Reuse blocks in multiple regions, and create custom block types with their own unique settings. You can also configure blocks for important components that used to be hard-coded, like breadcrumbs and site names.</p>
+<h2>Sa moćnim prilagođavanjima</h2>
+<p>Koristite authoring with WYSIWYG osobinama napravljenim da učine stvaranje i upravljanje sadržajem urednim. Editor održava markup čistim i ima ugašene alate za formatiranje. Kada trebate da promenite podešavanja, koristite drag-and-drop metodu za konfigurisanje korisničkog interfejsa dodavanjem ili uklanjanjem dugmadi za editor.</p>
+<p>Pretvorite smernice u strukture sa novim poljima za modelovanje sadržaja. Email, link, phone, entity reference, i date fields su sada automatski uključeni. Iskoristite blokove u više regiona i napravite unikatne tipove blokova za važne komponente koje su inače bile "hard coded", kao što su breadcrumbs i site names.</p>
 
 <h2>Zato što u jezgru ima još!</h2>
 <p>Napravite listinge povezanog sadržaja korisnika, događaja, i članaka vesti bez dodatog modula; Views se sada nalazi u jezgru Drupal-a. Možete čak menjati admin listinge, zato što su takođe dodati sa Views'om. Views nije jedina stvar koja je nova. Podesite drugačije responsive stilove za pojedine slike. Takođe, svi kreirani blokovi mogu imati polja, mogu da se  prevode i mogu biti revizirani. Zadržite osnovnu reviziju, i držite je objavljenu na Vašoj stranici, dok dodajete i brišete druge izmene.</p>
 
-<h2>And a commitment to accessibility</h2>
-<p>Mark content regions with attributes that make them familiar, thanks to WAI-ARIA techniques and HTML5 semantic markup. Improve navigation by identifying menus, banners, and ancillary content areas, and letting keyboard users move through them more easily. You can even take advantage of these practices for administering your own sites. Drupal 8 puts these methods to work in a new admin toolbar that adapts to different screen widths, and is easier for people with screen readers to use.</p>
+<h2>I posvećenost ka pristupačnosti</h2>
+<p>Označite regione sadržaja sa atributima koji ih čine prepoznatljivijim, zahvaljujući WAI-ARIA tehnikama i HTML5 semantičkim markup-om. Poboljšajte navigaciju identifikacijom menija, banera i pomoćnih polja sadržaja i olakšajte korisnicima kretanje tastaturom. Čak možete iskoristiti ove prakse za administraciju vaših sajtova. Drupal 8 upošljava ove metode u novom administratorskom polju sa alatima koje se prilagođava širini ekrana i olakašano je korišćenje korisnicima koji koriste softver za čitanje sa ekrana.</p>
